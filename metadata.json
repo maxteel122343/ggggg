@@ -1,0 +1,9 @@
+{
+  "name": "Copy of AI Gesture Agent",
+  "description": "An AI-powered Android automation agent that controls your device through gestures, voice commands, and screen analysis using an overlay interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
